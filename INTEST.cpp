@@ -1,4 +1,4 @@
-Problem Link : https://www.codechef.com/problems/INTEST
+// Problem Link : https://www.codechef.com/problems/INTEST
 
 
 // Note that this problem is for testing fast input-output.
