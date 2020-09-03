@@ -24,6 +24,7 @@ using namespace std;
 #define all(x) x.begin(), x.end()
 #define clr(x) memset(x, 0, sizeof(x))
 #define sortall(x) sort(all(x))
+#define to_lc(s) transform(all(s), s.begin(), ::tolower); //convert string(STL) passed to lowercase
 #define tr(it, a) for(auto it = a.begin(); it != a.end(); it++)
 #define PI 3.1415926535897932384626
 typedef pair<int, int>	pii;
